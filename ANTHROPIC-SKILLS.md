@@ -1,0 +1,3 @@
+# Anthropic Agent Skills
+
+Bundled from https://github.com/anthropics/skills at commit e4bb5d960d87126ff3b3a8af1a104b7db67560ba. See each skill's LICENSE.txt and the third-party notices in `ANTHROPIC-THIRD-PARTY-NOTICES.md`. These files contain third-party instructions and scripts: review them before use. Their scripts and tools may need extra dependencies. Bundling does not execute any code, grant network access, connect Claude or guarantee model invocation. Skills are discovered when this directory is in the selected project's ancestry. To copy the set into another existing project, run the optional installer in `codeis-kit/install-anthropic-skills.mjs`.
